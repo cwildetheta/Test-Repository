@@ -1,6 +1,6 @@
 #include <iostream>
 
-int feature2()
+int newFeatureFromMainBranch()
 {
     std::cout << "Hello World" << std::endl;
     return 0;
