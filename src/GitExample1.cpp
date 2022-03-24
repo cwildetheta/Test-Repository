@@ -1,5 +1,11 @@
 #include <iostream>
 
+int feature2()
+{
+    std::cout << "Hello World" << std::endl;
+    return 0;
+}
+
 int feature1()
 {
     std::cout << "Hello World" << std::endl;
