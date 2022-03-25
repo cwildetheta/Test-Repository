@@ -1,5 +1,11 @@
 #include <iostream>
 
+int connectwithGithub()
+{
+    std::cout << "Hello World" << std::endl;
+    return 0;   
+}
+
 int mainBranchDevelopment2()
 {
     std::cout << "Hello World" << std::endl;
