@@ -1,5 +1,11 @@
 #include <iostream>
 
+int mainBranchDevelopment2()
+{
+    std::cout << "Hello World" << std::endl;
+    return 0;   
+}
+
 int mainBranchDevelopment1()
 {
     std::cout << "Hello World" << std::endl;
